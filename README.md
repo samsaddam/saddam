@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Tech I S**
 
-- 🌱 I’m currently learning **cloud computing**
+
 
 - 👨‍💻 All of my projects are available at [https://samsaddam.github.io/portfolio/](https://samsaddam.github.io/portfolio/)
 
